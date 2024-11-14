@@ -5,6 +5,7 @@ body{
     background-repeat: no-repeat;
     background-size: contain;
     margin: 0px;
+    
     max-width: 800px;
 }
 h1{
@@ -17,7 +18,7 @@ p {
 }
 div#primeira-ft{
     background-color: #DCDCE8;
-    width: 300px;
+    width: 150px;
     padding: 5px;
     border-radius: 8px;
     margin:auto; 
@@ -26,21 +27,21 @@ div#primeira-ft{
 }
 div#segunda-ft{
     background-color: #DCDCE8;
-    width: 300px;
+    width: 150px;
     padding: 5px;
     border-radius: 8px;
     margin: auto;
     margin-left: 60px; 
-    margin-top: 280px;  
+    margin-top: 100px;  
 }
 div#terceira-ft{
     background-color: #DCDCE8;
-    width: 300px;
+    width: 150px;
     padding: 5px;
     border-radius: 8px;
     margin: auto;
     margin-right: 60px;
-    margin-top: 180px;  
+    margin-top: 10px;  
 }
 footer{
     text-align: center;
