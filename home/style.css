@@ -4,8 +4,8 @@ body{
     background-image: url(imagens/background-img.jpg);
     background-repeat: no-repeat;
     background-size: contain;
-    background-position:center;
     margin: 0px;
+    max-width: 800px;
 }
 h1{
     text-align: center;
@@ -20,23 +20,27 @@ div#primeira-ft{
     width: 300px;
     padding: 5px;
     border-radius: 8px;
-    margin-left: 300px; 
+    margin:auto; 
+    margin-right:60px;
+    margin-top: 60px;
 }
 div#segunda-ft{
     background-color: #DCDCE8;
     width: 300px;
     padding: 5px;
     border-radius: 8px;
-    margin-left: 70px; 
-    margin-top: 300px;  
+    margin: auto;
+    margin-left: 60px; 
+    margin-top: 280px;  
 }
 div#terceira-ft{
     background-color: #DCDCE8;
     width: 300px;
     padding: 5px;
     border-radius: 8px;
-    margin-left: 300px; 
-    margin-top: 190px;  
+    margin: auto;
+    margin-right: 60px;
+    margin-top: 180px;  
 }
 footer{
     text-align: center;
