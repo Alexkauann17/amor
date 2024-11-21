@@ -1,19 +1,19 @@
 @charset "UTF-8";
 body{
-    width: 89%;
+    width: 98%;
     background: #8a8ac0;
     font: normal 15pt arial;
-    margin: -2px;
 }
 h1{
     text-align: center;
     color: white;
-
+    font-family:Helvetica, sans-serif;
 }
 h2{
     text-align: center;
     color: white;
     font-size: 17px;
+    font-family:Helvetica, sans-serif;
 }
 div{
     margin: 10px;
