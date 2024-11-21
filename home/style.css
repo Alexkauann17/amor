@@ -1,12 +1,14 @@
 @charset "UTF-8";
 body{
+    width: 96%;
     background-color: #8a8ac0;
     background-image: url(imagens/background-img.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 60vh;
+    background-position: center;
     margin: 0px;
+    margin: auto;
     padding: 0px;
-    min-height: 1000px;
     
 }
 h1{
@@ -22,18 +24,18 @@ div#primeira-ft{
     width: 150px;
     padding: 5px;
     border-radius: 8px;
-    margin:auto; 
-    margin-right:60px;
-    margin-top: 90px;
+    margin: auto;
+    margin-right:35% ;
 }
 div#segunda-ft{
     background-color: #DCDCE8;
     width: 150px;
     padding: 5px;
-    border-radius: 8px;
+    border-radius: 8px; 
     margin: auto;
-    margin-left: 60px; 
-    margin-top: 110px;  
+    margin-left:35% ;
+    margin-top: 40px;
+    margin-bottom: 20px;
 }
 div#terceira-ft{
     background-color: #DCDCE8;
@@ -41,13 +43,8 @@ div#terceira-ft{
     padding: 5px;
     border-radius: 8px;
     margin: auto;
-    margin-right: 60px;
-    margin-top: 80px;  
-}
-footer{
-    text-align: center;
-    background-color: #DCDCE8;
-    margin-top:50px;
-    padding-bottom: 10px;
+    margin-top: 40px;
+    margin-right:35% ;
+    
 }
 

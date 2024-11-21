@@ -1,12 +1,19 @@
 @charset "UTF-8";
 body{
+    width: 89%;
     background: #8a8ac0;
     font: normal 15pt arial;
+    margin: -2px;
 }
 h1{
     text-align: center;
     color: white;
 
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 17px;
 }
 div{
     margin: 10px;
@@ -32,6 +39,6 @@ p {
 }
 #img-login {
     display: flex;
-    height: 90px;
+    height: 100px;
     margin: auto;
 }
