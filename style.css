@@ -24,7 +24,7 @@ section{
     border-radius: 15px;
     padding: 5px;
     margin: auto;
-    width: 400px;
+    max-width:400px;
     box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.295);
 }
 footer{
