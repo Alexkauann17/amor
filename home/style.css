@@ -5,8 +5,8 @@ body{
     background-color: #8a8ac0;
     background-image: url(imagens/background-img.jpg);
     background-repeat: no-repeat;
-    background-size: 60vh;
-    background-position: center;
+    background-size: contain;
+    background-position: center top;
     margin: 0px;
     margin: auto;
     padding: 0px;
