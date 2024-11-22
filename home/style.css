@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    width: 100%;
+    width: 90%;
     background-color: #8a8ac0;
     background-image: url(imagens/background-img.jpg);
     background-repeat: no-repeat;
@@ -12,7 +12,7 @@ body{
     padding: 0px;
     max-width: 700px
     ;
-    min-height: 790px;
+    max-height: 790px;
     
 }
 h1{
